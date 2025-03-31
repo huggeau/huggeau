@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huggeau
 - 👀 I’m interested in video games, coding and metal music
-- 🌱 I’m currently learning java, c# and angular
-- 💞️ I’m looking to collaborate on anything except html or web coding
+- 🌱 I’m currently learning java, c# and React + Vite
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me via mail or via a way that you can found me
 
 <!---
